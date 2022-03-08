@@ -3,7 +3,7 @@
 This repository serves as a public record of meeting notes and decisions made by the Library Carpentry Curriculum Advisory Committee (CAC). 
 
 Information
-about CAC structure and duties can be found in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committees). Current CAC membership 
+about CAC structure and duties can be found in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html). Current CAC membership 
 can be accessed on the [Library Carpentry website](https://librarycarpentry.org/cac/).
 
 ## How to Contact the Curriculum Advisory Committee
