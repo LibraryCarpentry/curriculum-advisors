@@ -1,3 +1,14 @@
+## 2023-11-28 - Tim/Lisa
+
+TODO: 
+
+1. Email announcements via topicbox
+  - (https://carpentries.topicbox.com/groups/discuss-library-carpentry),
+  -  https://carpentries.topicbox.com/groups/instructors), 
+2. Review feedback from Slack announcement
+3. 
+
+
 *2023-10-12*
 
 Per multiple discussions and a decision by the LC-CAC on 2023-09-21, the LC-Overview lesson will be decommissioned and removed from from the LC Core curriculum. 
@@ -44,12 +55,7 @@ Lisa McAulay and Tim Dennis for Library Carpentry-Curriculum Advisory Committee
 
 To the Library Carpentry Community,
 
-Quick update: We're removing the LC-Overview lesson from the core curriculum by March 29, 2024. This decision, made by the LC-CAC, aims to refresh our course offerings.
-
-## Key Points:
-- LC-Overview will be out of the core curriculum.
-- Please adjust your teaching plans accordingly.
-- Reach out for support and questions.
+Quick update: We're removing the LC-Overview lesson from the core curriculum by March 29, 2024. The Library Carpentry Curriculum Advisory Committee (LC-CAC) decided this lesson no longer serves its curricular function.
 
 Questions? Join the discussion on TopicBox:
 - [Discuss](https://carpentries.topicbox.com/groups/discuss-library-carpentry)
@@ -66,5 +72,7 @@ DONE
 1. Set date for decommission (set at March 29, 2024)
 2. "Add a callout box in the Index.md file - the best we can do right now. "
 3. Lisa request write privileges on the lc-overview repo (she hadn't done that since the lesson was transitioned to  Workbench in September 2023)
-4. SLACK announcements to Libraries channel, slack (#libraries) 
+4. SLACK announcements to Libraries channel, slack (#libraries)
+5. SLACK announcement to instructors channel (#instructors)
+
 
