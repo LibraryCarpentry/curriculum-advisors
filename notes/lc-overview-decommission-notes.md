@@ -1,13 +1,33 @@
 ## 2023-11-28 - Tim/Lisa
 
-TODO: 
+**TODO:**
 
 1. Email announcements via topicbox
   - (https://carpentries.topicbox.com/groups/discuss-library-carpentry),
   -  https://carpentries.topicbox.com/groups/instructors), 
 2. Review feedback from Slack announcement
-3. 
+  - Plans for espisode contents discussed 
 
+--- 
+**Email** 
+
+## LC-Overview Lesson Removal Announcement
+
+To the Library Carpentry Community,
+
+Quick update: We're removing the LC-Overview lesson from the core curriculum by March 29, 2024. The Library Carpentry Curriculum Advisory Committee (LC-CAC) decided this lesson no longer serves its curricular function.
+
+Questions? Join the discussion on TopicBox:
+- [Discuss](https://carpentries.topicbox.com/groups/discuss-library-carpentry)
+- [Instructors](https://carpentries.topicbox.com/groups/instructors)
+
+Thanks for adapting with us.
+
+Best,
+Lisa McAulay and Tim Dennis
+LC-CAC
+
+---
 
 *2023-10-12*
 
@@ -31,42 +51,6 @@ To DO:
 3. Email announcements via topicbox
 2a. (https://carpentries.topicbox.com/groups/discuss-library-carpentry),  
 2b. https://carpentries.topicbox.com/groups/instructors), 
-
-**Slack announcement:** 
-
-### Update: LC-Overview Lesson Removal
-
-Hello Library Carpentry Instructors,
-
-The LC-CAC has decided to remove the LC-Overview lesson from the core curriculum. This will happen on March 29, 2024. This is to keep our curriculum updated and relevant.
-
-- **Action:** Start phasing out this lesson from your teaching.
-- **Support:** Reach out with any questions or concerns.
-
-We'll keep you posted with any further updates.
-
-Thanks,
-Lisa McAulay and Tim Dennis for Library Carpentry-Curriculum Advisory Committee
-
---- 
-**Email** 
-
-## LC-Overview Lesson Removal Announcement
-
-To the Library Carpentry Community,
-
-Quick update: We're removing the LC-Overview lesson from the core curriculum by March 29, 2024. The Library Carpentry Curriculum Advisory Committee (LC-CAC) decided this lesson no longer serves its curricular function.
-
-Questions? Join the discussion on TopicBox:
-- [Discuss](https://carpentries.topicbox.com/groups/discuss-library-carpentry)
-- [Instructors](https://carpentries.topicbox.com/groups/instructors)
-
-Thanks for adapting with us.
-
-Best,
-Lisa McAulay and Tim Dennis
-LC-CAC
-
 
 DONE
 1. Set date for decommission (set at March 29, 2024)
