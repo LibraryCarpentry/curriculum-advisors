@@ -20,7 +20,7 @@ Work continues to decommission the LC Overview lesson. Lisa McAulay has document
 Phil reported back about an open meeting with Toby, re: Carpentries staffing changes affecting CACs. Core team will no longer coordinate CAC recruitment and onboarding or provide a CAC liaison. They will communicate to maintainers when a CAC becomes inactive (so LC-CAC should make sure to contact Core Team if that ever becomes the case). Core team can help us promote a call for new members if we choose to recruit on our own. 
 
 #### Intro to Computational Thinking
-UCLA worked with Tim to update the Computational Thinking lesson to the new workbench and [submitted it to the Incubator](https://github.com/carpentries-incubator/proposals/issues/182). 
+UCLA DataSquad students worked with Tim to update the Computational Thinking lesson to the new workbench and [submitted it to the Incubator](https://github.com/carpentries-incubator/proposals/issues/182). This lesson was designed and written by Belinda Weaver.  
 
 *Action items*: Tim will move the lesson directly to the LC repo as an alpha lesson. LC-CAC should create issues for the checklist, and communicate to the community, especially to find opportunities to pilot the lesson and get instructor feedback.
 
@@ -34,4 +34,5 @@ UCLA has two students who are well versed in the workbench and may be available 
 
 - LC-CAC recruitment (March meeting)
 - Updating LC website with new lessons
+- Lesson adoption visit from DMP101 <http://ucla-imls-open-sci.info/dmp101/>
 
